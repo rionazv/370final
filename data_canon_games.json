@@ -57,10 +57,10 @@
 		{"source":  3,	"target":  4}, 
 		{"source":  3,	"target":  5}, 
 	
-		{"source":  4,	"target":  5}
+		{"source":  4,	"target":  5},
 
-		{"source":  6,	"target":  7}
-		{"source":  6,	"target":  8}
+		{"source":  6,	"target":  7},
+		{"source":  6,	"target":  8},
 
 		{"source":  7,	"target":  8}
 	]
