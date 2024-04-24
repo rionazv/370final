@@ -25,6 +25,22 @@
 		{
 			"id": 6,
 			"name": "Magician"
+		},
+		{
+			"id": 7,
+			"name": "Explorer"
+		},
+		{
+			"id": 8,
+			"name": "Mercenary"
+		},
+		{
+			"id": 9,
+			"name": "Coordinator"
+		},
+		{
+			"id": 10,
+			"name": "Mechanic"
 		}
 	],
 
@@ -34,8 +50,6 @@
 
 	"links": [
 
-		{"source":  1,	"target":  6},
-		
 		{"source":  2,	"target":  3}, 
 		{"source":  2,	"target":  4}, 
 		{"source":  2,	"target":  5}, 
@@ -45,6 +59,10 @@
 	
 		{"source":  4,	"target":  5}
 
+		{"source":  6,	"target":  7}
+		{"source":  6,	"target":  8}
+
+		{"source":  7,	"target":  8}
 	]
 
 
