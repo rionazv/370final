@@ -4,223 +4,223 @@
 	"nodes": [
 		{
 			"id": 1,
-			"name": "Lucky Guy"
-			
+			"name": "Lucky Guy",
+			"game": 15
 		},
 		{
 			"id": 2,
-			"name": "Doctor"
-			
+			"name": "Doctor",
+			"game": 5		
 		},
 		{
 			"id": 3,
-			"name": "Lawyer"
-			
+			"name": "Lawyer",
+			"game": 5
 		},
 		{
 			"id": 4,
-			"name": "Thief"
-			
+			"name": "Thief",
+			"game": 5			
 		},
 		{
 			"id": 5,
-			"name": "Gardener"
-			
+			"name": "Gardener",
+			"game": 5			
 		},
 		{
 			"id": 6,
-			"name": "Magician"
-			
+			"name": "Magician",
+			"game": 10			
 		},
 		{
 			"id": 7,
-			"name": "Explorer"
-			
+			"name": "Explorer",
+			"game": 10			
 		},
 		{
 			"id": 8,
-			"name": "Mercenary"
-			
+			"name": "Mercenary",
+			"game": 10			
 		},
 		{
 			"id": 9,
-			"name": "Coordinator"
-			
+			"name": "Coordinator",
+			"game": 8			
 		},
 		{
 			"id": 10,
-			"name": "Mechanic"
-			
+			"name": "Mechanic",
+			"game": 11			
 		},
 		{
 			"id": 11,
-			"name": "Forward"
-			
+			"name": "Forward",
+			"game": 10			
 		},
 		{
 			"id": 12,
-			"name": "Mind's Eye"
-			
+			"name": "Mind's Eye",
+			"game": 1		
 		},
 		{
 			"id": 13,
-			"name": "Priestess"
-			
+			"name": "Priestess",
+			"game": 7			
 		},
 		{
 			"id": 14,
-			"name": "Perfumer"
-			
+			"name": "Perfumer",
+			"game": 6			
 		},
 		{
 			"id": 15,
-			"name": "Cowboy"
-			
+			"name": "Cowboy",
+			"game": 6			
 		},
 		{
 			"id": 16,
-			"name": "Dancer"
-			
+			"name": "Dancer",
+			"game": 9			
 		},
 		{
 			"id": 17,
-			"name": "Seer"
-			
+			"name": "Seer",
+			"game": 8			
 		},
 		{
 			"id": 18,
-			"name": "Embalmer"
-			
+			"name": "Embalmer",
+			"game": 3		
 		},
 		{
 			"id": 19,
-			"name": "Prospector"
-			
+			"name": "Prospector",
+			"game": 12			
 		},
 		{
 			"id": 20,
-			"name": "Enchantress"
-			
+			"name": "Enchantress",
+			"game": 6			
 		},
 		{
 			"id": 21,
-			"name": "Wildling"
-			
+			"name": "Wildling",
+			"game": 9			
 		},
 		{
 			"id": 22,
-			"name": "Acrobat"
-			
+			"name": "Acrobat",
+			"game": 9			
 		},
 		{
 			"id": 23,
-			"name": "First Officer"
-			
+			"name": "First Officer",
+			"game": 6			
 		},
 		{
 			"id": 24,
-			"name": "Barmaid"
-			
+			"name": "Barmaid",
+			"game": 8			
 		},
 		{
 			"id": 25,
-			"name": "Postman"
-			
+			"name": "Postman",
+			"game": 3			
 		},
 		{
 			"id": 26,
-			"name": "Gravekeeper"
-			
+			"name": "Gravekeeper",
+			"game": 4			
 		},
 		{
 			"id": 27,
-			"name": "Prisoner"
-			
+			"name": "Prisoner",
+			"game": 11			
 		},
 		{
 			"id": 28,
-			"name": "Entomologist"
-			
+			"name": "Entomologist",
+			"game": 12			
 		},
 		{
 			"id": 29,
-			"name": "Painter"
-			
+			"name": "Painter",
+			"game": 6			
 		},
 		{
 			"id": 30,
-			"name": "Batter"
-			
+			"name": "Batter",
+			"game": 3			
 		},
 		{
 			"id": 31,
-			"name": "Toy Merchant"
-			
+			"name": "Toy Merchant",
+			"game": 3			
 		},
 		{
 			"id": 32,
-			"name": "Psychologist"
-			
+			"name": "Psychologist",
+			"game": 1			
 		},
 		{
 			"id": 33,
-			"name": "Patient"
-			
+			"name": "Patient",
+			"game": 1		
 		},
 		{
 			"id": 34,
-			"name": "Novelist"
-			
+			"name": "Novelist",
+			"game": 1			
 		},
 		{
 			"id": 35,
-			"name": "Little Girl"
-			
+			"name": "Little Girl",
+			"game": 15			
 		},
 		{
 			"id": 36,
-			"name": "Weeping Clown"
-			
+			"name": "Weeping Clown",
+			"game": 9			
 		},
 		{
 			"id": 37,
-			"name": "Professor"
-			
+			"name": "Professor",
+			"game": 7			
 		},
 		{
 			"id": 38,
-			"name": "Antiquarian"
-			
+			"name": "Antiquarian",
+			"game": 15			
 		},
 		{
 			"id": 39,
-			"name": "Composer"
-			
+			"name": "Composer",
+			"game": 15			
 		},
 		{
 			"id": 40,
-			"name": "Journalist"
-			
+			"name": "Journalist",
+			"game": 12			
 		},
 		{
 			"id": 41,
-			"name": "Aeroplanist"
-			
+			"name": "Aeroplanist",
+			"game": 11			
 		},
 		{
 			"id": 42,
-			"name": "Cheerleader"
-			
+			"name": "Cheerleader",
+			"game": 15			
 		},
 		{
 			"id": 43,
-			"name": "Puppeteer"
-			
+			"name": "Puppeteer",
+			"game": 15			
 		},
 		{
 			"id": 44,
-			"name": "Fire Investigator"
-			
+			"name": "Fire Investigator",
+			"game": 15			
 		}
 	],
 
