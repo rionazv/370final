@@ -5,90 +5,112 @@
 		{
 			"id": 1,
 			"name": "Lucky Guy"
+			
 		},
 		{
 			"id": 2,
 			"name": "Doctor"
+			
 		},
 		{
 			"id": 3,
 			"name": "Lawyer"
+			
 		},
 		{
 			"id": 4,
 			"name": "Thief"
+			
 		},
 		{
 			"id": 5,
 			"name": "Gardener"
+			
 		},
 		{
 			"id": 6,
 			"name": "Magician"
+			
 		},
 		{
 			"id": 7,
 			"name": "Explorer"
+			
 		},
 		{
 			"id": 8,
 			"name": "Mercenary"
+			
 		},
 		{
 			"id": 9,
 			"name": "Coordinator"
+			
 		},
 		{
 			"id": 10,
 			"name": "Mechanic"
+			
 		},
 		{
 			"id": 11,
 			"name": "Forward"
+			
 		},
 		{
 			"id": 12,
 			"name": "Mind's Eye"
+			
 		},
 		{
 			"id": 13,
 			"name": "Priestess"
+			
 		},
 		{
 			"id": 14,
 			"name": "Perfumer"
+			
 		},
 		{
 			"id": 15,
 			"name": "Cowboy"
+			
 		},
 		{
 			"id": 16,
 			"name": "Dancer"
+			
 		},
 		{
 			"id": 17,
 			"name": "Seer"
+			
 		},
 		{
 			"id": 18,
 			"name": "Embalmer"
+			
 		},
 		{
 			"id": 19,
 			"name": "Prospector"
+			
 		},
 		{
 			"id": 20,
 			"name": "Enchantress"
+			
 		},
 		{
 			"id": 21,
 			"name": "Wildling"
+			
 		},
 		{
 			"id": 22,
 			"name": "Acrobat"
+			
 		},
 		{
 			"id": 23,
@@ -219,8 +241,84 @@
 
 		{"source":  6,	"target":  7},
 		{"source":  6,	"target":  8},
+		{"source":  6,	"target":  11},
+		{"source":  6,	"target":  21},
 
-		{"source":  7,	"target":  8}
+		{"source":  7,	"target":  8},
+		{"source":  7,	"target":  11},
+		{"source":  7,	"target":  21},
+
+		{"source":  8,	"target":  11},
+		{"source":  8,	"target":  21},
+
+		{"source":  9,	"target":  17},
+		{"source":  9,	"target":  24},
+		{"source":  9,	"target":  37},
+
+		{"source":  10,	"target":  27},
+		{"source":  10,	"target":  41},
+		
+		{"source":  11,	"target":  21},
+
+		{"source":  12,	"target":  32},
+		{"source":  12,	"target":  33},
+		{"source":  12,	"target":  34},
+
+		{"source":  13,	"target":  37},
+
+		{"source":  14,	"target":  15},
+		{"source":  14,	"target":  20},
+		{"source":  14,	"target":  23},
+		{"source":  14,	"target":  29},
+
+		{"source":  15,	"target":  20},
+		{"source":  15,	"target":  23},
+		{"source":  15,	"target":  29},
+
+		{"source":  16,	"target":  21},
+		{"source":  16,	"target":  22},
+		{"source":  16,	"target":  36},
+
+		{"source":  17,	"target":  24},
+		{"source":  17,	"target":  37},
+
+		{"source":  18,	"target":  25},
+		{"source":  18,	"target":  30},
+		{"source":  18,	"target":  31},
+
+		{"source":  19,	"target":  28},
+		{"source":  19,	"target":  34},
+		{"source":  19,	"target":  40},
+
+		{"source":  20,	"target":  23},
+		{"source":  20,	"target":  29},
+
+		{"source":  21,	"target":  22},
+		{"source":  21,	"target":  36},
+
+		{"source":  22,	"target":  36},
+
+		{"source":  23,	"target":  29},
+		
+		{"source":  24,	"target":  37},
+
+		{"source":  25,	"target":  30},
+		{"source":  25,	"target":  31},
+
+		{"source":  27,	"target":  41},
+
+		{"source":  28,	"target":  34},
+		{"source":  28,	"target":  40},
+
+		{"source":  30,	"target":  31},
+
+		{"source":  32,	"target":  33},
+		{"source":  32,	"target":  34},
+
+		{"source":  33,	"target":  34},
+
+		{"source":  34,	"target":  40}
+		
 	]
 
 
