@@ -5,7 +5,7 @@
 		{
 			"id": 1,
 			"name": "Lucky Guy",
-			"game": 9
+			"game": 13
 		},
 		{
 			"id": 2,
@@ -175,7 +175,7 @@
 		{
 			"id": 35,
 			"name": "Little Girl",
-			"game": 9			
+			"game": 13			
 		},
 		{
 			"id": 36,
@@ -190,12 +190,12 @@
 		{
 			"id": 38,
 			"name": "Antiquarian",
-			"game": 9			
+			"game": 13			
 		},
 		{
 			"id": 39,
 			"name": "Composer",
-			"game": 9			
+			"game": 13		
 		},
 		{
 			"id": 40,
@@ -210,17 +210,17 @@
 		{
 			"id": 42,
 			"name": "Cheerleader",
-			"game": 9			
+			"game": 13			
 		},
 		{
 			"id": 43,
 			"name": "Puppeteer",
-			"game": 9			
+			"game": 13		
 		},
 		{
 			"id": 44,
 			"name": "Fire Investigator",
-			"game": 9			
+			"game": 13		
 		}
 	],
 
