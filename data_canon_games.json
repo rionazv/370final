@@ -5,7 +5,7 @@
 		{
 			"id": 1,
 			"name": "Lucky Guy",
-			"game": 15
+			"game": 9
 		},
 		{
 			"id": 2,
@@ -80,7 +80,7 @@
 		{
 			"id": 16,
 			"name": "Dancer",
-			"game": 9			
+			"game": 15			
 		},
 		{
 			"id": 17,
@@ -105,12 +105,12 @@
 		{
 			"id": 21,
 			"name": "Wildling",
-			"game": 9			
+			"game": 15			
 		},
 		{
 			"id": 22,
 			"name": "Acrobat",
-			"game": 9			
+			"game": 15			
 		},
 		{
 			"id": 23,
@@ -175,12 +175,12 @@
 		{
 			"id": 35,
 			"name": "Little Girl",
-			"game": 15			
+			"game": 9			
 		},
 		{
 			"id": 36,
 			"name": "Weeping Clown",
-			"game": 9			
+			"game": 15			
 		},
 		{
 			"id": 37,
@@ -190,12 +190,12 @@
 		{
 			"id": 38,
 			"name": "Antiquarian",
-			"game": 15			
+			"game": 9			
 		},
 		{
 			"id": 39,
 			"name": "Composer",
-			"game": 15			
+			"game": 9			
 		},
 		{
 			"id": 40,
@@ -210,17 +210,17 @@
 		{
 			"id": 42,
 			"name": "Cheerleader",
-			"game": 15			
+			"game": 9			
 		},
 		{
 			"id": 43,
 			"name": "Puppeteer",
-			"game": 15			
+			"game": 9			
 		},
 		{
 			"id": 44,
 			"name": "Fire Investigator",
-			"game": 15			
+			"game": 9			
 		}
 	],
 
