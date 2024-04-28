@@ -41,6 +41,164 @@
 		{
 			"id": 10,
 			"name": "Mechanic"
+		},
+		{
+			"id": 11,
+			"name": "Forward"
+		},
+		{
+			"id": 12,
+			"name": "Mind's Eye"
+		},
+		{
+			"id": 13,
+			"name": "Priestess"
+		},
+		{
+			"id": 14,
+			"name": "Perfumer"
+		},
+		{
+			"id": 15,
+			"name": "Cowboy"
+		},
+		{
+			"id": 16,
+			"name": "Dancer"
+		},
+		{
+			"id": 17,
+			"name": "Seer"
+		},
+		{
+			"id": 18,
+			"name": "Embalmer"
+		},
+		{
+			"id": 19,
+			"name": "Prospector"
+		},
+		{
+			"id": 20,
+			"name": "Enchantress"
+		},
+		{
+			"id": 21,
+			"name": "Wildling"
+		},
+		{
+			"id": 22,
+			"name": "Acrobat"
+		},
+		{
+			"id": 23,
+			"name": "First Officer"
+			
+		},
+		{
+			"id": 24,
+			"name": "Barmaid"
+			
+		},
+		{
+			"id": 25,
+			"name": "Postman"
+			
+		},
+		{
+			"id": 26,
+			"name": "Gravekeeper"
+			
+		},
+		{
+			"id": 27,
+			"name": "Prisoner"
+			
+		},
+		{
+			"id": 28,
+			"name": "Entomologist"
+			
+		},
+		{
+			"id": 29,
+			"name": "Painter"
+			
+		},
+		{
+			"id": 30,
+			"name": "Batter"
+			
+		},
+		{
+			"id": 31,
+			"name": "Toy Merchant"
+			
+		},
+		{
+			"id": 32,
+			"name": "Psychologist"
+			
+		},
+		{
+			"id": 33,
+			"name": "Patient"
+			
+		},
+		{
+			"id": 34,
+			"name": "Novelist"
+			
+		},
+		{
+			"id": 35,
+			"name": "Little Girl"
+			
+		},
+		{
+			"id": 36,
+			"name": "Weeping Clown"
+			
+		},
+		{
+			"id": 37,
+			"name": "Professor"
+			
+		},
+		{
+			"id": 38,
+			"name": "Antiquarian"
+			
+		},
+		{
+			"id": 39,
+			"name": "Composer"
+			
+		},
+		{
+			"id": 40,
+			"name": "Journalist"
+			
+		},
+		{
+			"id": 41,
+			"name": "Aeroplanist"
+			
+		},
+		{
+			"id": 42,
+			"name": "Cheerleader"
+			
+		},
+		{
+			"id": 43,
+			"name": "Puppeteer"
+			
+		},
+		{
+			"id": 44,
+			"name": "Fire Investigator"
+			
 		}
 	],
 
