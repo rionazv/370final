@@ -5,222 +5,266 @@
 		{
 			"id": 1,
 			"name": "Lucky Guy",
-			"game": 13
+			"game": 13,
+			"role": "Contain"
 		},
 		{
 			"id": 2,
 			"name": "Doctor",
-			"game": 5		
+			"game": 5,
+			"role": "Contain"		
 		},
 		{
 			"id": 3,
 			"name": "Lawyer",
-			"game": 5
+			"game": 5,
+			"role": "Decode"
 		},
 		{
 			"id": 4,
 			"name": "Thief",
-			"game": 5			
+			"game": 5,
+			"role": "Contain"			
 		},
 		{
 			"id": 5,
 			"name": "Gardener",
-			"game": 5			
+			"game": 5,
+			"role": "Contain"			
 		},
 		{
 			"id": 6,
 			"name": "Magician",
-			"game": 10			
+			"game": 10,
+			"role": "Contain"			
 		},
 		{
 			"id": 7,
 			"name": "Explorer",
-			"game": 10			
+			"game": 10,
+			"role": "Decode"			
 		},
 		{
 			"id": 8,
 			"name": "Mercenary",
-			"game": 10			
+			"game": 10,
+			"role": "Rescue"			
 		},
 		{
 			"id": 9,
 			"name": "Coordinator",
-			"game": 8			
+			"game": 8,
+			"role": "Rescue"			
 		},
 		{
 			"id": 10,
 			"name": "Mechanic",
-			"game": 11			
+			"game": 11,
+			"role": "Decode"			
 		},
 		{
 			"id": 11,
 			"name": "Forward",
-			"game": 10			
+			"game": 10,
+			"role": "Assist"			
 		},
 		{
 			"id": 12,
 			"name": "Mind's Eye",
-			"game": 1		
+			"game": 1,
+			"role": "Decode"		
 		},
 		{
 			"id": 13,
 			"name": "Priestess",
-			"game": 7			
+			"game": 7,
+			"role": "Assist"			
 		},
 		{
 			"id": 14,
 			"name": "Perfumer",
-			"game": 6			
+			"game": 6,
+			"role": "Contain"			
 		},
 		{
 			"id": 15,
 			"name": "Cowboy",
-			"game": 6			
+			"game": 6,
+			"role": "Assist"			
 		},
 		{
 			"id": 16,
 			"name": "Dancer",
-			"game": 15			
+			"game": 15,
+			"role": "Contain"			
 		},
 		{
 			"id": 17,
 			"name": "Seer",
-			"game": 8			
+			"game": 8,
+			"role": "Assist"			
 		},
 		{
 			"id": 18,
 			"name": "Embalmer",
-			"game": 3		
+			"game": 3,
+			"role": "Assist"		
 		},
 		{
 			"id": 19,
 			"name": "Prospector",
-			"game": 12			
+			"game": 12,
+			"role": "Contain"			
 		},
 		{
 			"id": 20,
 			"name": "Enchantress",
-			"game": 6			
+			"game": 6,
+			"role": "Contain"			
 		},
 		{
 			"id": 21,
 			"name": "Wildling",
-			"game": 15			
+			"game": 15,
+			"role": "Assist"			
 		},
 		{
 			"id": 22,
 			"name": "Acrobat",
-			"game": 15			
+			"game": 15,
+			"role": "Contain"			
 		},
 		{
 			"id": 23,
 			"name": "First Officer",
-			"game": 6			
+			"game": 6,
+			"role": "Rescue"			
 		},
 		{
 			"id": 24,
 			"name": "Barmaid",
-			"game": 8			
+			"game": 8,
+			"role": "Assist"			
 		},
 		{
 			"id": 25,
 			"name": "Postman",
-			"game": 3			
+			"game": 3,
+			"role": "Assist"			
 		},
 		{
 			"id": 26,
 			"name": "Gravekeeper",
-			"game": 4			
+			"game": 4,
+			"role": "Rescue"			
 		},
 		{
 			"id": 27,
 			"name": "Prisoner",
-			"game": 11			
+			"game": 11,
+			"role": "Decode"			
 		},
 		{
 			"id": 28,
 			"name": "Entomologist",
-			"game": 12			
+			"game": 12,
+			"role": "Contain"			
 		},
 		{
 			"id": 29,
 			"name": "Painter",
-			"game": 6			
+			"game": 6,
+			"role": "Contain"			
 		},
 		{
 			"id": 30,
 			"name": "Batter",
-			"game": 3			
+			"game": 3,
+			"role": "Assist"			
 		},
 		{
 			"id": 31,
 			"name": "Toy Merchant",
-			"game": 3			
+			"game": 3,
+			"role": "Contain"			
 		},
 		{
 			"id": 32,
 			"name": "Psychologist",
-			"game": 1			
+			"game": 1,
+			"role": "Assist"			
 		},
 		{
 			"id": 33,
 			"name": "Patient",
-			"game": 1		
+			"game": 1,
+			"role": "Contain"		
 		},
 		{
 			"id": 34,
 			"name": "Novelist",
-			"game": 1			
+			"game": 1,
+			"role": "Contain"			
 		},
 		{
 			"id": 35,
 			"name": "Little Girl",
-			"game": 13			
+			"game": 13,
+			"role": "Assist"			
 		},
 		{
 			"id": 36,
 			"name": "Weeping Clown",
-			"game": 15			
+			"game": 15,
+			"role": "Contain"			
 		},
 		{
 			"id": 37,
 			"name": "Professor",
-			"game": 7			
+			"game": 7,
+			"role": "Contain"			
 		},
 		{
 			"id": 38,
 			"name": "Antiquarian",
-			"game": 13			
+			"game": 13,
+			"role": "Contain"			
 		},
 		{
 			"id": 39,
 			"name": "Composer",
-			"game": 13		
+			"game": 13,
+			"role": "Decode"		
 		},
 		{
 			"id": 40,
 			"name": "Journalist",
-			"game": 12			
+			"game": 12,
+			"role": "Rescue"			
 		},
 		{
 			"id": 41,
 			"name": "Aeroplanist",
-			"game": 11			
+			"game": 11,
+			"role": "Contain"			
 		},
 		{
 			"id": 42,
 			"name": "Cheerleader",
-			"game": 13			
+			"game": 13,
+			"role": "Assist"			
 		},
 		{
 			"id": 43,
 			"name": "Puppeteer",
-			"game": 13		
+			"game": 13,
+			"role": "Contain"		
 		},
 		{
 			"id": 44,
 			"name": "Fire Investigator",
-			"game": 13		
+			"game": 13,
+			"role": "Assist"		
 		}
 	],
 
